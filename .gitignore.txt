@@ -1,6 +1,0 @@
-wp-content/uploads/
-wp-content/cache/
-wp-content/upgrade/
-wp-content/ai1wm-backups/
-node_modules/
-.env

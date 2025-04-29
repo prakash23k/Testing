@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on April 29, 2025 at 7:01 am by All in One SEO v4.8.1.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://prakash23k.github.io/Testing/default-sitemap.xsl?sitemap=page"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://prakash23k.github.io/Testing/]]></loc>
+		<lastmod><![CDATA[2025-04-23T11:19:19+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://prakash23k.github.io/Testing/wp-content/uploads/2025/04/pexels-photo-5530477-5530477.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://prakash23k.github.io/Testing/wp-content/uploads/2025/04/pexels-photo-7025972-7025972.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://prakash23k.github.io/Testing/wp-content/uploads/2025/04/school-template-curriculum-img-3.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://prakash23k.github.io/Testing/wp-content/uploads/2025/04/school-template-curriculum-img-4.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://prakash23k.github.io/Testing/wp-content/uploads/2025/04/school-template-curriculum-img-5.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://prakash23k.github.io/Testing/wp-content/uploads/2025/04/school-template-curriculum-img-6.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://prakash23k.github.io/Testing/wp-content/uploads/2025/04/spot-runs-start-la-34514.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://prakash23k.github.io/Testing/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://prakash23k.github.io/Testing/contact/]]></loc>
+		<lastmod><![CDATA[2025-04-25T14:29:58+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://prakash23k.github.io/Testing/about/]]></loc>
+		<lastmod><![CDATA[2025-04-25T14:05:49+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://prakash23k.github.io/Testing/wp-content/uploads/2025/04/pexels-photo-699459-699459.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://prakash23k.github.io/Testing/academics/]]></loc>
+		<lastmod><![CDATA[2025-04-22T08:25:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://prakash23k.github.io/Testing/wp-content/uploads/2025/04/pexels-photo-5530477-5530477.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://prakash23k.github.io/Testing/wp-content/uploads/2025/04/pexels-photo-7025972-7025972.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://prakash23k.github.io/Testing/wp-content/uploads/2025/04/school-template-curriculum-img-3.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://prakash23k.github.io/Testing/wp-content/uploads/2025/04/school-template-curriculum-img-4.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://prakash23k.github.io/Testing/wp-content/uploads/2025/04/school-template-curriculum-img-5.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://prakash23k.github.io/Testing/activities/]]></loc>
+		<lastmod><![CDATA[2025-04-22T07:12:50+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>
